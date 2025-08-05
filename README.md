@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi! I'm a technical writer in the SaaS workforce management (WFM) space, with a strong focus on clarity, usability, and making complex systems understandable.
 
-<!--
-**Badbeats87/Badbeats87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Outside of work, I build small tools and scripts — most recently using Python to control synthesizer parameters (Roland JD-Xi) via Raspberry Pi and nanoKONTROL2.
 
-Here are some ideas to get you started:
+🎛️ My interests include synthesizers, Raspberry Pi projects, and self-taught explorations in mathematics and physics. While I have no formal training in these areas, I approach them with curiosity, persistence, and a hands-on mindset.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 This GitHub mainly hosts personal experiments and projects that reflect my passion for learning and technical problem-solving.
+
+My music projects:
+
+- https://formercity.bandcamp.com/album/church-ep
+- https://casavoyager.bandcamp.com/album/networks-2
+- https://badbeats87.bandcamp.com/album/mmna-make-money-not-art
